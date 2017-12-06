@@ -18,4 +18,9 @@ What is the benefit of having a copy of the last known state of the remote store
 We can compare and get informed of changes that others made.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+No need to learn the concepts is the easy part, and the rest would be harder (but free for private uses).
+
+
 
