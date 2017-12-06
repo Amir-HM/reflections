@@ -15,7 +15,7 @@ Pretty obvious :|
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-Because local directory has changes that we are working on, and can help us decide if we should push before continue working on the project.
+We can compare and get informed of changes that others made.
 
 
 
