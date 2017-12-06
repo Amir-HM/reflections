@@ -8,4 +8,14 @@ Why might you want to always pull changes manually rather than having Git automa
 You might want to get informed of the changes, or maybe you are working on the exact same changes and it may overwrite the changes you yourself have made.
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Pretty obvious :|
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Because local directory has changes that we are working on, and can help us decide if we should push before continue working on the project.
+
+
 
